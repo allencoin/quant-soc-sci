@@ -5,7 +5,7 @@ dim(turnout)
 
 #obtain a summary of the data
 summary(turnout)
-# summary includes min, 1st quartile, medianm, etc. for each column
+# summary includes min, 1st quartile, median, etc. for each column
 
 #how many observations?
 nrow(turnout) * ncol(turnout)
